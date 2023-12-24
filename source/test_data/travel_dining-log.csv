@@ -1,0 +1,127 @@
+eid,start_date,end_date,city,dining_date,food_type,food_location,place_visit_date,place,people,action,emotion
+e9,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/17,street food,Corporation Food Hall,1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e10,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/18,Indian food,Guatemalan Night Market,1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e11,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/19,Chinese food,Es Todo Vegan Street Food,1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e12,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/20,Italian food,Corporation Food Hall,1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e13,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/21,local food,Corporation Food Hall,1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e14,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/22,Japanese food,Es Todo Vegan Street Food,1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e15,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/23,local food,Es Todo Vegan Street Food,1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e16,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/24,Italian food,Guatemalan Night Market,1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e17,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/25,street food,Es Todo Vegan Street Food,1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e18,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/26,Indian food,Corporation Food Hall,1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e1977,1996-04-25,1996-05-04,"Rio, Brazil",1996/04/26,street food,Pão de queijo,1996/04/30,Cristo Redentor,Sebastian,bought some souvenirs,happy
+e1978,1996-04-25,1996-05-04,"Rio, Brazil",1996/04/27,street food,Bolinho de bacalhau,1996/04/30,Cristo Redentor,Sebastian,bought some souvenirs,happy
+e1979,1996-04-25,1996-05-04,"Rio, Brazil",1996/04/28,Chinese food,Pão de queijo,1996/04/30,Cristo Redentor,Sebastian,bought some souvenirs,happy
+e1980,1996-04-25,1996-05-04,"Rio, Brazil",1996/04/29,Chinese food,Bolinho de bacalhau,1996/04/30,Cristo Redentor,Sebastian,bought some souvenirs,happy
+e1981,1996-04-25,1996-05-04,"Rio, Brazil",1996/04/30,Italian food,Tapioca,1996/04/30,Cristo Redentor,Sebastian,bought some souvenirs,happy
+e1982,1996-04-25,1996-05-04,"Rio, Brazil",1996/05/01,street food,Bolinho de bacalhau,1996/04/30,Cristo Redentor,Sebastian,bought some souvenirs,happy
+e1983,1996-04-25,1996-05-04,"Rio, Brazil",1996/05/02,Italian food,Pão de queijo,1996/04/30,Cristo Redentor,Sebastian,bought some souvenirs,happy
+e1984,1996-04-25,1996-05-04,"Rio, Brazil",1996/05/03,Italian food,Tapioca,1996/04/30,Cristo Redentor,Sebastian,bought some souvenirs,happy
+e1985,1996-04-25,1996-05-04,"Rio, Brazil",1996/05/04,Italian food,Tapioca,1996/04/30,Cristo Redentor,Sebastian,bought some souvenirs,happy
+e3897,1997-05-11,1997-05-22,"Shanghai, China",1997/05/12,Italian food,Wanhangdu Lu junction,,,,,
+e3898,1997-05-11,1997-05-22,"Shanghai, China",1997/05/13,Chinese food,Fangbang Xi Lu,,,,,
+e3899,1997-05-11,1997-05-22,"Shanghai, China",1997/05/14,street food,South Bund Fabric Market,,,,,
+e3900,1997-05-11,1997-05-22,"Shanghai, China",1997/05/15,Japanese food,South Bund Fabric Market,,,,,
+e3901,1997-05-11,1997-05-22,"Shanghai, China",1997/05/16,Indian food,South Bund Fabric Market,,,,,
+e3902,1997-05-11,1997-05-22,"Shanghai, China",1997/05/17,Japanese food,South Bund Fabric Market,,,,,
+e3903,1997-05-11,1997-05-22,"Shanghai, China",1997/05/18,Japanese food,South Bund Fabric Market,,,,,
+e3904,1997-05-11,1997-05-22,"Shanghai, China",1997/05/19,local food,Fangbang Xi Lu,,,,,
+e3905,1997-05-11,1997-05-22,"Shanghai, China",1997/05/20,Italian food,Fangbang Xi Lu,,,,,
+e3906,1997-05-11,1997-05-22,"Shanghai, China",1997/05/21,Japanese food,South Bund Fabric Market,,,,,
+e3907,1997-05-11,1997-05-22,"Shanghai, China",1997/05/22,street food,South Bund Fabric Market,,,,,
+e5886,1998-02-05,1998-02-12,"London, UK",1998/02/06,Indian food,Buck Street Market,1998/02/10,Tower of London,Evelyn,took a selfie,happy
+e5887,1998-02-05,1998-02-12,"London, UK",1998/02/08,Indian food,Bang Bang Oriental,1998/02/10,Tower of London,Evelyn,took a selfie,happy
+e5888,1998-02-05,1998-02-12,"London, UK",1998/02/09,Japanese food,Brixton Village,1998/02/10,Tower of London,Evelyn,took a selfie,happy
+e5889,1998-02-05,1998-02-12,"London, UK",1998/02/10,Chinese food,Berwick Street Market,1998/02/10,Tower of London,Evelyn,took a selfie,happy
+e5890,1998-02-05,1998-02-12,"London, UK",1998/02/11,Chinese food,Bang Bang Oriental,1998/02/10,Tower of London,Evelyn,took a selfie,happy
+e5891,1998-02-05,1998-02-12,"London, UK",1998/02/12,street food,Bang Bang Oriental,1998/02/10,Tower of London,Evelyn,took a selfie,happy
+e7859,1999-03-02,1999-03-06,"New York, US",1999/03/03,Japanese food,The Halal Guys,1999/03/09,Empire State Building,Alice,bought some souvenirs,happy
+e7860,1999-03-02,1999-03-06,"New York, US",1999/03/04,Italian food,Korilla BBQ,1999/03/09,Empire State Building,Alice,bought some souvenirs,happy
+e7861,1999-03-02,1999-03-06,"New York, US",1999/03/05,Indian food,Melt Bakery,1999/03/09,Empire State Building,Alice,bought some souvenirs,happy
+e7862,1999-03-02,1999-03-06,"New York, US",1999/03/06,street food,The Cinnamon Snail,1999/03/09,Empire State Building,Alice,bought some souvenirs,happy
+e9834,2000-03-21,2000-03-26,"Shanghai, China",2000/03/22,Japanese food,South Bund Fabric Market,,,,,
+e9835,2000-03-21,2000-03-26,"Shanghai, China",2000/03/23,Chinese food,South Bund Fabric Market,,,,,
+e9836,2000-03-21,2000-03-26,"Shanghai, China",2000/03/24,Japanese food,South Bund Fabric Market,,,,,
+e9837,2000-03-21,2000-03-26,"Shanghai, China",2000/03/25,street food,Yuyuan Lu junction,,,,,
+e9838,2000-03-21,2000-03-26,"Shanghai, China",2000/03/26,Italian food,South Bund Fabric Market,,,,,
+e11809,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/12,Indian food,Lunch Street,2001/02/16,Carnaval,"Brooklyn, Kinsley",took a selfie,special
+e11810,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/14,local food,Wokworks City Hall Food Cart,2001/02/16,Carnaval,"Brooklyn, Kinsley",took a selfie,special
+e11811,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/15,Indian food,Wood Street Pizza,2001/02/16,Carnaval,"Brooklyn, Kinsley",took a selfie,special
+e11812,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/16,local food,Wood Street Pizza,2001/02/16,Carnaval,"Brooklyn, Kinsley",took a selfie,special
+e11813,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/18,Indian food,Wood Street Pizza,2001/02/16,Carnaval,"Brooklyn, Kinsley",took a selfie,special
+e11814,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/19,Chinese food,High Street Philly,2001/02/16,Carnaval,"Brooklyn, Kinsley",took a selfie,special
+e11815,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/20,Chinese food,Wood Street Pizza,2001/02/16,Carnaval,"Brooklyn, Kinsley",took a selfie,special
+e11816,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/21,Indian food,Wokworks City Hall Food Cart,2001/02/16,Carnaval,"Brooklyn, Kinsley",took a selfie,special
+e13787,2002-03-19,2002-03-26,"Dubai, UAE",2002/03/20,Chinese food,Falafel Alzaeem,2002/03/22,Dubai Aquarium & Underwater Zoo,"Sebastian, Ezekiel, Matthew",bought some souvenirs,happy
+e13788,2002-03-19,2002-03-26,"Dubai, UAE",2002/03/21,local food,Falafel Alzaeem,2002/03/22,Dubai Aquarium & Underwater Zoo,"Sebastian, Ezekiel, Matthew",bought some souvenirs,happy
+e13789,2002-03-19,2002-03-26,"Dubai, UAE",2002/03/22,Japanese food,Falafel Alzaeem,2002/03/22,Dubai Aquarium & Underwater Zoo,"Sebastian, Ezekiel, Matthew",bought some souvenirs,happy
+e13790,2002-03-19,2002-03-26,"Dubai, UAE",2002/03/24,Japanese food,Sind Punjab,2002/03/22,Dubai Aquarium & Underwater Zoo,"Sebastian, Ezekiel, Matthew",bought some souvenirs,happy
+e13791,2002-03-19,2002-03-26,"Dubai, UAE",2002/03/25,Italian food,Sind Punjab,2002/03/22,Dubai Aquarium & Underwater Zoo,"Sebastian, Ezekiel, Matthew",bought some souvenirs,happy
+e13792,2002-03-19,2002-03-26,"Dubai, UAE",2002/03/26,street food,Hor Al Anz Bakery,2002/03/22,Dubai Aquarium & Underwater Zoo,"Sebastian, Ezekiel, Matthew",bought some souvenirs,happy
+e15755,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/12,Italian food,Wood Street Pizza,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15756,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/13,Chinese food,High Street Philly,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15757,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/14,Japanese food,South Street Diner,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15758,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/15,Italian food,Wood Street Pizza,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15759,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/16,Chinese food,Lunch Street,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15760,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/17,street food,Lunch Street,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15761,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/18,Indian food,Lunch Street,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15762,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/19,Indian food,South Street Diner,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15763,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/20,Italian food,Wokworks City Hall Food Cart,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15764,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/21,Chinese food,High Street Philly,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15765,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/22,street food,South Street Diner,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15766,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/23,Japanese food,High Street Philly,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e15767,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/24,Japanese food,South Street Diner,2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e17726,2004-02-21,2004-03-06,"New York, US",2004/02/23,Italian food,Korilla BBQ,2004/02/28,Rockefeller Center,"Ezekiel, Sebastian",recorded some videos,special
+e17727,2004-02-21,2004-03-06,"New York, US",2004/02/24,Chinese food,Nuts 4 Nuts,2004/02/28,Rockefeller Center,"Ezekiel, Sebastian",recorded some videos,special
+e17728,2004-02-21,2004-03-06,"New York, US",2004/02/25,Japanese food,The Cinnamon Snail,2004/02/28,Rockefeller Center,"Ezekiel, Sebastian",recorded some videos,special
+e17729,2004-02-21,2004-03-06,"New York, US",2004/02/26,local food,Melt Bakery,2004/02/28,Rockefeller Center,"Ezekiel, Sebastian",recorded some videos,special
+e17730,2004-02-21,2004-03-06,"New York, US",2004/02/29,Indian food,The Halal Guys,2004/02/28,Rockefeller Center,"Ezekiel, Sebastian",recorded some videos,special
+e17731,2004-02-21,2004-03-06,"New York, US",2004/03/02,Italian food,Nuts 4 Nuts,2004/02/28,Rockefeller Center,"Ezekiel, Sebastian",recorded some videos,special
+e17732,2004-02-21,2004-03-06,"New York, US",2004/03/04,Japanese food,Melt Bakery,2004/02/28,Rockefeller Center,"Ezekiel, Sebastian",recorded some videos,special
+e19682,2005-04-07,2005-04-17,"Rome, Italy",2005/04/08,Indian food,Panificio Bonci,2005/04/12,Trevi Fountain,"Ezekiel, Matthew, Sebastian",took a group photo,happy
+e19683,2005-04-07,2005-04-17,"Rome, Italy",2005/04/09,Japanese food,Dar Filettaro,2005/04/12,Trevi Fountain,"Ezekiel, Matthew, Sebastian",took a group photo,happy
+e19684,2005-04-07,2005-04-17,"Rome, Italy",2005/04/11,Indian food,Dar Filettaro,2005/04/12,Trevi Fountain,"Ezekiel, Matthew, Sebastian",took a group photo,happy
+e19685,2005-04-07,2005-04-17,"Rome, Italy",2005/04/12,Japanese food,Pizzarium,2005/04/12,Trevi Fountain,"Ezekiel, Matthew, Sebastian",took a group photo,happy
+e19686,2005-04-07,2005-04-17,"Rome, Italy",2005/04/13,street food,Pizzarium,2005/04/12,Trevi Fountain,"Ezekiel, Matthew, Sebastian",took a group photo,happy
+e19687,2005-04-07,2005-04-17,"Rome, Italy",2005/04/14,street food,Pizzarium,2005/04/12,Trevi Fountain,"Ezekiel, Matthew, Sebastian",took a group photo,happy
+e19688,2005-04-07,2005-04-17,"Rome, Italy",2005/04/15,local food,Panificio Bonci,2005/04/12,Trevi Fountain,"Ezekiel, Matthew, Sebastian",took a group photo,happy
+e19689,2005-04-07,2005-04-17,"Rome, Italy",2005/04/16,street food,Pizzarium,2005/04/12,Trevi Fountain,"Ezekiel, Matthew, Sebastian",took a group photo,happy
+e19690,2005-04-07,2005-04-17,"Rome, Italy",2005/04/17,local food,Trapizzino,2005/04/12,Trevi Fountain,"Ezekiel, Matthew, Sebastian",took a group photo,happy
+e23065,2006-02-17,2006-03-02,"Shanghai, China",2006/02/18,street food,Fangbang Xi Lu,,,,,
+e23066,2006-02-17,2006-03-02,"Shanghai, China",2006/02/20,Chinese food,Yuyuan Lu junction,,,,,
+e23067,2006-02-17,2006-03-02,"Shanghai, China",2006/02/21,Indian food,Wanhangdu Lu junction,,,,,
+e23068,2006-02-17,2006-03-02,"Shanghai, China",2006/02/22,Japanese food,Wanhangdu Lu junction,,,,,
+e23069,2006-02-17,2006-03-02,"Shanghai, China",2006/02/23,Japanese food,Fangbang Xi Lu,,,,,
+e23070,2006-02-17,2006-03-02,"Shanghai, China",2006/02/24,Chinese food,Yuyuan Lu junction,,,,,
+e23071,2006-02-17,2006-03-02,"Shanghai, China",2006/02/27,local food,South Bund Fabric Market,,,,,
+e23072,2006-02-17,2006-03-02,"Shanghai, China",2006/02/28,Italian food,Yuyuan Lu junction,,,,,
+e23073,2006-02-17,2006-03-02,"Shanghai, China",2006/03/02,Italian food,Yuyuan Lu junction,,,,,
+e26480,2007-01-21,2007-01-27,"Miami, US",2007/01/22,Indian food,Ms. Cheezious,2007/01/25,South Beach,"Aurora, Evelyn, Lily",bought some souvenirs,impressed
+e26481,2007-01-21,2007-01-27,"Miami, US",2007/01/23,Indian food,El Zambo Street Food,2007/01/25,South Beach,"Aurora, Evelyn, Lily",bought some souvenirs,impressed
+e26482,2007-01-21,2007-01-27,"Miami, US",2007/01/24,Chinese food,Ms. Cheezious,2007/01/25,South Beach,"Aurora, Evelyn, Lily",bought some souvenirs,impressed
+e26483,2007-01-21,2007-01-27,"Miami, US",2007/01/25,street food,Ms. Cheezious,2007/01/25,South Beach,"Aurora, Evelyn, Lily",bought some souvenirs,impressed
+e26484,2007-01-21,2007-01-27,"Miami, US",2007/01/26,local food,Ms. Cheezious,2007/01/25,South Beach,"Aurora, Evelyn, Lily",bought some souvenirs,impressed
+e29868,2008-02-11,2008-02-14,"Barcelona, Spain",2008/02/13,Italian food,Pizza Del Born,,,,,
+e29869,2008-02-11,2008-02-14,"Barcelona, Spain",2008/02/14,Chinese food,Bar Bo de B,,,,,
+e33269,2009-01-19,2009-01-28,"Seoul, South Korea",2009/01/20,local food,Gwangjang Market,2009/01/22,National Museum Of Korea,"Lily, Cora",bought some souvenirs,happy
+e33270,2009-01-19,2009-01-28,"Seoul, South Korea",2009/01/21,street food,Gwangjang Market,2009/01/22,National Museum Of Korea,"Lily, Cora",bought some souvenirs,happy
+e33271,2009-01-19,2009-01-28,"Seoul, South Korea",2009/01/22,local food,Myeongdong Street Food Alley,2009/01/22,National Museum Of Korea,"Lily, Cora",bought some souvenirs,happy
+e33272,2009-01-19,2009-01-28,"Seoul, South Korea",2009/01/23,street food,Myeongdong Street Food Alley,2009/01/22,National Museum Of Korea,"Lily, Cora",bought some souvenirs,happy
+e33273,2009-01-19,2009-01-28,"Seoul, South Korea",2009/01/26,street food,Myeongdong Street Food Alley,2009/01/22,National Museum Of Korea,"Lily, Cora",bought some souvenirs,happy
+e33274,2009-01-19,2009-01-28,"Seoul, South Korea",2009/01/28,Italian food,Seoul Bamdokkaebi Night Market,2009/01/22,National Museum Of Korea,"Lily, Cora",bought some souvenirs,happy
+e36652,2010-01-28,2010-02-04,"Barcelona, Spain",2010/01/29,street food,Ciutat Comtal,,,,,
+e36653,2010-01-28,2010-02-04,"Barcelona, Spain",2010/01/30,Italian food,Bar Bo de B,,,,,
+e36654,2010-01-28,2010-02-04,"Barcelona, Spain",2010/01/31,Japanese food,Pizza Del Born,,,,,
+e36655,2010-01-28,2010-02-04,"Barcelona, Spain",2010/02/01,local food,Pizza Del Born,,,,,
+e36656,2010-01-28,2010-02-04,"Barcelona, Spain",2010/02/02,street food,Pizza Del Born,,,,,
+e36657,2010-01-28,2010-02-04,"Barcelona, Spain",2010/02/03,local food,Maoz,,,,,
+e40034,2011-02-04,2011-02-09,"New Delhi, India",2011/02/05,street food,Yashwant Place,2011/02/09,The Red Fort,"Matthew, Sebastian, Ezekiel",recorded some videos,impressed
+e40035,2011-02-04,2011-02-09,"New Delhi, India",2011/02/08,Japanese food,Yashwant Place,2011/02/09,The Red Fort,"Matthew, Sebastian, Ezekiel",recorded some videos,impressed
+e40036,2011-02-04,2011-02-09,"New Delhi, India",2011/02/09,Italian food,Chawri Bazar,2011/02/09,The Red Fort,"Matthew, Sebastian, Ezekiel",recorded some videos,impressed
+e43408,2012-01-19,2012-01-30,"London, UK",2012/01/20,Indian food,Berwick Street Market,2012/01/24,Westminster,"Ezekiel, Matthew",took a group photo,special
+e43409,2012-01-19,2012-01-30,"London, UK",2012/01/21,local food,Berwick Street Market,2012/01/24,Westminster,"Ezekiel, Matthew",took a group photo,special
+e43410,2012-01-19,2012-01-30,"London, UK",2012/01/22,Italian food,Bang Bang Oriental,2012/01/24,Westminster,"Ezekiel, Matthew",took a group photo,special
+e43411,2012-01-19,2012-01-30,"London, UK",2012/01/23,Japanese food,Broadway Market,2012/01/24,Westminster,"Ezekiel, Matthew",took a group photo,special
+e43412,2012-01-19,2012-01-30,"London, UK",2012/01/24,local food,Bang Bang Oriental,2012/01/24,Westminster,"Ezekiel, Matthew",took a group photo,special
+e43413,2012-01-19,2012-01-30,"London, UK",2012/01/25,Indian food,Berwick Street Market,2012/01/24,Westminster,"Ezekiel, Matthew",took a group photo,special
+e43414,2012-01-19,2012-01-30,"London, UK",2012/01/26,local food,Buck Street Market,2012/01/24,Westminster,"Ezekiel, Matthew",took a group photo,special

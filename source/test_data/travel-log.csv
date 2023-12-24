@@ -1,0 +1,19 @@
+eid,start_date,end_date,city,people
+e43402,2012/01/19,2012/01/30,"London, UK","Ezekiel, Matthew"
+e40028,2011/02/04,2011/02/09,"New Delhi, India","Matthew, Sebastian, Ezekiel"
+e36651,2010/01/28,2010/02/04,"Barcelona, Spain","Alice, Lily"
+e33265,2009/01/19,2009/01/28,"Seoul, South Korea","Lily, Cora"
+e29867,2008/02/11,2008/02/14,"Barcelona, Spain","Kinsley, Brooklyn"
+e26475,2007/01/21,2007/01/27,"Miami, US","Aurora, Evelyn, Lily"
+e23064,2006/02/17,2006/03/02,"Shanghai, China","Alice, Cora"
+e19676,2005/04/07,2005/04/17,"Rome, Italy","Ezekiel, Matthew, Sebastian"
+e17718,2004/02/21,2004/03/06,"New York, US","Ezekiel, Sebastian"
+e15749,2003/03/11,2003/03/25,"Philadelphia, US","Cora, Evelyn"
+e13783,2002/03/19,2002/03/26,"Dubai, UAE","Sebastian, Ezekiel, Matthew"
+e11803,2001/02/11,2001/02/21,"Philadelphia, US","Brooklyn, Kinsley"
+e9833,2000/03/21,2000/03/26,"Shanghai, China",Ezekiel
+e7851,1999/03/02,1999/03/06,"New York, US",Alice
+e5880,1998/02/05,1998/02/12,"London, UK",Evelyn
+e3896,1997/05/11,1997/05/22,"Shanghai, China","Kinsley, Luke"
+e1971,1996/04/25,1996/05/04,"Rio, Brazil",Sebastian
+e3,1995/03/16,1995/03/27,"Los Angeles, US","Sebastian, Ezekiel"

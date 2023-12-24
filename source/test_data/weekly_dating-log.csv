@@ -1,0 +1,999 @@
+eid,date,people_string,location
+e22,1995/01/02,Aria,a restaurant
+e23,1995/01/07,Jacob,a park
+e24,1995/01/08,Ivy,a coffee Shop
+e25,1995/01/11,Samuel,a coffee Shop
+e29,1995/01/17,Chris,a boba shop
+e30,1995/01/19,Elizabeth,a coffee Shop
+e34,1995/01/23,Peyton,a restaurant
+e40,1995/02/07,Eleanor,a restaurant
+e42,1995/02/12,Ryan,a coffee Shop
+e43,1995/02/18,Isla,a coffee Shop
+e46,1995/02/21,Silas,a coffee Shop
+e47,1995/02/22,Alice,a boba shop
+e50,1995/03/02,Charlotte,a restaurant
+e53,1995/03/06,Rylee,a boba shop
+e55,1995/03/13,Claire,a coffee Shop
+e56,1995/03/17,Marzieh,a restaurant
+e59,1995/03/23,Jonathan,a park
+e63,1995/04/04,Brooklyn,a restaurant
+e64,1995/04/06,Miles,a restaurant
+e68,1995/04/09,Noah,a restaurant
+e69,1995/04/13,Ava,a park
+e72,1995/04/20,Ava,a boba shop
+e76,1995/04/24,Adrian,a boba shop
+e77,1995/04/29,Mila,a coffee Shop
+e82,1995/05/05,Nathan,a coffee Shop
+e86,1995/05/08,Everly,a restaurant
+e89,1995/05/15,William,a coffee Shop
+e90,1995/05/20,Aurora,a restaurant
+e94,1995/05/22,Lucas,a coffee Shop
+e97,1995/05/29,Brook,a coffee Shop
+e98,1995/05/31,Everett,a boba shop
+e102,1995/06/12,Aaron,a restaurant
+e103,1995/06/19,Anna,a park
+e104,1995/06/24,Audrey,a restaurant
+e108,1995/06/25,Jordan,a boba shop
+e109,1995/07/01,Alon,a park
+e113,1995/07/05,Aiden,a coffee Shop
+e118,1995/07/12,Natalia,a boba shop
+e121,1995/07/20,Mila,a restaurant
+e125,1995/07/28,Ruby,a boba shop
+e127,1995/08/04,Nicholas,a park
+e131,1995/08/10,Adam,a restaurant
+e134,1995/08/18,Aaron,a park
+e136,1995/08/23,Ivy,a boba shop
+e140,1995/08/29,Luke,a restaurant
+e141,1995/08/31,Alon,a coffee Shop
+e148,1995/09/12,Ezra,a restaurant
+e151,1995/09/21,Miles,a boba shop
+e160,1995/10/24,James,a coffee Shop
+e162,1995/10/30,Emily,a boba shop
+e163,1995/11/02,Wang-Chiew,a restaurant
+e167,1995/11/05,Claire,a park
+e168,1995/11/08,Penelope,a park
+e174,1995/11/19,Lily,a coffee Shop
+e176,1995/12/02,Sadie,a park
+e181,1995/12/03,Jane,a coffee Shop
+e182,1995/12/07,Zoe,a boba shop
+e184,1995/12/10,Elena,a park
+e185,1995/12/15,Sofia,a boba shop
+e192,1995/12/26,Naomi,a boba shop
+e193,1995/12/27,Everly,a coffee Shop
+e1991,1996/01/06,Christophe,a boba shop
+e1995,1996/01/14,Oliver,a restaurant
+e2006,1996/02/05,Lillian,a park
+e2007,1996/02/08,Maverick,a coffee Shop
+e2010,1996/02/12,Oliver,a restaurant
+e2011,1996/02/15,Cooper,a coffee Shop
+e2014,1996/02/19,Joshua,a park
+e2015,1996/02/24,Benjamin,a boba shop
+e2022,1996/03/06,Daniel,a boba shop
+e2023,1996/03/10,Luna,a restaurant
+e2030,1996/03/25,Avery,a boba shop
+e2031,1996/03/29,Sarah,a boba shop
+e2035,1996/04/08,Paisley,a park
+e2036,1996/04/11,Peyton,a coffee Shop
+e2040,1996/04/16,Cameron,a coffee Shop
+e2043,1996/04/23,Lambert,a restaurant
+e2044,1996/04/26,Elena,a coffee Shop
+e2051,1996/05/18,Jeremiah,a restaurant
+e2054,1996/05/20,Aaliyah,a coffee Shop
+e2056,1996/05/28,Eliana,a restaurant
+e2059,1996/06/06,Stella,a park
+e2061,1996/06/16,Dylan,a park
+e2063,1996/06/20,Willow,a boba shop
+e2068,1996/06/30,Jacob,a coffee Shop
+e2072,1996/07/09,Sadie,a restaurant
+e2077,1996/07/18,Ezra,a boba shop
+e2082,1996/07/22,Athena,a boba shop
+e2083,1996/07/25,Austin,a restaurant
+e2085,1996/07/29,Violet,a park
+e2086,1996/08/02,Jameson,a restaurant
+e2090,1996/08/10,Lucy,a restaurant
+e2092,1996/08/13,Sofia,a park
+e2093,1996/08/15,Naomi,a boba shop
+e2098,1996/08/22,Robert,a restaurant
+e2101,1996/08/29,Charlotte,a park
+e2104,1996/09/02,Mike,a restaurant
+e2105,1996/09/05,Andrew,a coffee Shop
+e2107,1996/09/09,Luna,a coffee Shop
+e2111,1996/09/21,Chris,a restaurant
+e2118,1996/10/01,Andrew,a park
+e2119,1996/10/05,Natalia,a boba shop
+e2121,1996/10/09,Penelope,a park
+e2122,1996/10/10,Roman,a park
+e2125,1996/10/15,Jaxson,a coffee Shop
+e2128,1996/10/26,Liam,a coffee Shop
+e2132,1996/10/28,Charlotte,a boba shop
+e2137,1996/11/05,Jonathan,a boba shop
+e2140,1996/11/11,Henry,a boba shop
+e2141,1996/11/17,Penelope,a restaurant
+e2145,1996/11/20,Cora,a restaurant
+e2146,1996/11/23,Brook,a park
+e2150,1996/11/30,Easton,a coffee Shop
+e2154,1996/12/07,Dylan,a boba shop
+e2157,1996/12/10,Alexander,a restaurant
+e2158,1996/12/12,Kai,a coffee Shop
+e2164,1996/12/23,Camila,a park
+e2165,1996/12/28,Levi,a coffee Shop
+e3911,1997/01/02,Ivy,a boba shop
+e3912,1997/01/06,Isaac,a boba shop
+e3915,1997/01/08,Audrey,a coffee Shop
+e3916,1997/01/13,Sophie,a restaurant
+e3925,1997/01/29,Nathan,a restaurant
+e3928,1997/02/06,Nathan,a restaurant
+e3929,1997/02/09,Wyatt,a park
+e3937,1997/02/22,Ezra,a park
+e3940,1997/02/27,Jace,a boba shop
+e3941,1997/03/02,Claire,a restaurant
+e3943,1997/03/08,David,a park
+e3947,1997/03/12,Daniel,a coffee Shop
+e3948,1997/03/15,Luca,a boba shop
+e3951,1997/03/24,Josephine,a restaurant
+e3957,1997/04/03,Hannah,a coffee Shop
+e3958,1997/04/06,Ella,a park
+e3962,1997/04/09,Lincoln,a restaurant
+e3963,1997/04/14,Zoe,a park
+e3967,1997/04/19,Maya,a restaurant
+e3971,1997/04/24,Andrew,a coffee Shop
+e3976,1997/05/01,Wesley,a boba shop
+e3977,1997/05/06,John,a coffee Shop
+e3980,1997/05/09,Jaxson,a restaurant
+e3981,1997/05/10,Samuel,a restaurant
+e3985,1997/05/17,Peyton,a boba shop
+e3987,1997/05/25,Aaron,a coffee Shop
+e3992,1997/05/30,Michael,a coffee Shop
+e3993,1997/06/01,Sarah,a park
+e3996,1997/06/06,Easton,a restaurant
+e3999,1997/06/12,Lily,a coffee Shop
+e4000,1997/06/14,Benjamin,a park
+e4006,1997/06/25,Amelia,a boba shop
+e4007,1997/06/29,Jordan,a boba shop
+e4010,1997/07/08,Connor,a boba shop
+e4015,1997/07/09,Lydia,a park
+e4020,1997/07/18,Zoe,a boba shop
+e4021,1997/07/19,Aaliyah,a boba shop
+e4023,1997/07/24,Olivia,a coffee Shop
+e4027,1997/08/05,Lily,a boba shop
+e4029,1997/08/08,Eva,a park
+e4032,1997/08/13,Elias,a park
+e4036,1997/08/25,Daniel,a park
+e4039,1997/08/27,Jose,a park
+e4040,1997/09/02,Isaiah,a restaurant
+e4047,1997/09/12,Lucy,a park
+e4048,1997/09/16,Mila,a coffee Shop
+e4051,1997/09/19,Nolan,a coffee Shop
+e4055,1997/09/24,Cameron,a coffee Shop
+e4057,1997/10/03,Stella,a restaurant
+e4062,1997/10/09,Parker,a boba shop
+e4063,1997/10/14,Aaliyah,a boba shop
+e4068,1997/10/16,Alon,a boba shop
+e4069,1997/10/18,Adeline,a coffee Shop
+e4077,1997/10/30,Lillian,a boba shop
+e4078,1997/11/01,Aaliyah,a restaurant
+e4081,1997/11/07,Scarlett,a coffee Shop
+e4082,1997/11/10,Stella,a boba shop
+e4086,1997/11/18,Aurora,a park
+e4090,1997/11/19,Axel,a park
+e4095,1997/12/04,Eliana,a boba shop
+e4096,1997/12/06,Jeremiah,a restaurant
+e4099,1997/12/12,Joseph,a coffee Shop
+e4100,1997/12/15,Jaxon,a coffee Shop
+e4103,1997/12/22,Madison,a restaurant
+e5894,1998/01/03,Jace,a boba shop
+e5895,1998/01/06,Nathan,a park
+e5901,1998/01/17,Natalie,a park
+e5904,1998/01/23,Josiah,a park
+e5908,1998/01/31,Everly,a park
+e5913,1998/02/13,Christophe,a boba shop
+e5918,1998/02/25,Lucas,a park
+e5921,1998/03/02,Elijah,a boba shop
+e5925,1998/03/11,Aurora,a boba shop
+e5928,1998/03/18,Sophie,a coffee Shop
+e5932,1998/03/24,Eli,a restaurant
+e5936,1998/04/01,John,a coffee Shop
+e5942,1998/04/11,Josiah,a coffee Shop
+e5943,1998/04/12,Layla,a park
+e5948,1998/04/18,Harper,a coffee Shop
+e5952,1998/05/05,Isla,a boba shop
+e5955,1998/05/13,Asher,a park
+e5959,1998/05/15,Claire,a park
+e5963,1998/05/23,Alexander,a park
+e5964,1998/05/24,John,a restaurant
+e5970,1998/06/05,Isaac,a restaurant
+e5971,1998/06/10,Carter,a boba shop
+e5973,1998/06/13,Ethan,a boba shop
+e5975,1998/06/20,Ellie,a coffee Shop
+e5976,1998/06/23,Madeline,a park
+e5979,1998/06/25,Benjamin,a park
+e5982,1998/07/04,Abigail,a park
+e5983,1998/07/06,Hailey,a boba shop
+e5985,1998/07/11,Christian,a restaurant
+e5989,1998/07/16,Isabella,a park
+e5991,1998/07/23,Brooklyn,a boba shop
+e5992,1998/07/26,Jaxson,a restaurant
+e5995,1998/08/03,Oliver,a coffee Shop
+e6001,1998/08/14,Isaiah,a coffee Shop
+e6002,1998/08/18,Abigail,a coffee Shop
+e6006,1998/08/25,Brook,a coffee Shop
+e6008,1998/08/28,Jameson,a boba shop
+e6009,1998/08/30,Eli,a coffee Shop
+e6014,1998/09/03,Emery,a park
+e6020,1998/09/23,Jacob,a boba shop
+e6026,1998/10/02,Joshua,a park
+e6029,1998/10/10,Adam,a park
+e6030,1998/10/11,Delilah,a restaurant
+e6034,1998/10/16,Ethan,a coffee Shop
+e6035,1998/10/21,Claire,a restaurant
+e6040,1998/10/24,Skylar,a boba shop
+e6045,1998/11/03,Easton,a restaurant
+e6049,1998/11/05,Peyton,a coffee Shop
+e6055,1998/11/21,Mateo,a boba shop
+e6056,1998/11/23,Matthew,a restaurant
+e6059,1998/11/27,Hudson,a restaurant
+e6060,1998/11/29,Valentina,a park
+e6062,1998/12/08,Emilia,a park
+e6066,1998/12/13,Gabriella,a park
+e6070,1998/12/19,Michael,a coffee Shop
+e6072,1998/12/26,Bella,a boba shop
+e6073,1998/12/27,Angel,a restaurant
+e7869,1999/01/08,Christophe,a coffee Shop
+e7873,1999/01/16,Alexander,a park
+e7874,1999/01/21,Jaxon,a restaurant
+e7878,1999/01/22,Delilah,a boba shop
+e7888,1999/02/13,Harper,a park
+e7893,1999/02/19,Cameron,a park
+e7894,1999/02/25,Connor,a boba shop
+e7899,1999/03/02,Carter,a restaurant
+e7904,1999/03/07,Robert,a restaurant
+e7905,1999/03/10,Jaxson,a coffee Shop
+e7910,1999/03/13,Zoey,a boba shop
+e7911,1999/03/16,Jameson,a coffee Shop
+e7916,1999/03/22,Emily,a restaurant
+e7921,1999/03/26,Carter,a boba shop
+e7922,1999/04/01,Claire,a boba shop
+e7926,1999/04/03,Aria,a restaurant
+e7930,1999/04/12,Ethan,a park
+e7933,1999/04/21,Gianna,a boba shop
+e7937,1999/04/28,Josiah,a coffee Shop
+e7945,1999/05/09,Aubrey,a coffee Shop
+e7946,1999/05/11,Bella,a park
+e7950,1999/05/20,Benjamin,a coffee Shop
+e7954,1999/05/25,Carson,a boba shop
+e7958,1999/05/31,Hudson,a restaurant
+e7965,1999/06/20,Marzieh,a park
+e7966,1999/06/23,Axel,a restaurant
+e7970,1999/07/01,Zoe,a restaurant
+e7976,1999/07/03,Evelyn,a park
+e7977,1999/07/08,Sophia,a restaurant
+e7983,1999/07/16,Aaliyah,a boba shop
+e7984,1999/07/21,Richard,a coffee Shop
+e7987,1999/07/29,Elizabeth,a park
+e7991,1999/07/30,Elias,a coffee Shop
+e7992,1999/08/03,Nathan,a boba shop
+e7999,1999/08/14,Jonathan,a boba shop
+e8002,1999/08/20,Sophia,a boba shop
+e8007,1999/09/03,Aria,a restaurant
+e8009,1999/09/16,Jordan,a park
+e8013,1999/09/22,Ian,a park
+e8018,1999/09/26,Alon,a park
+e8019,1999/09/29,Autumn,a boba shop
+e8023,1999/10/02,Axel,a coffee Shop
+e8026,1999/10/08,Alexander,a coffee Shop
+e8027,1999/10/13,Sophie,a restaurant
+e8030,1999/10/20,Kennedy,a restaurant
+e8034,1999/10/24,Elena,a park
+e8035,1999/10/26,Wesley,a boba shop
+e8039,1999/10/30,Logan,a coffee Shop
+e8042,1999/11/08,Wyatt,a boba shop
+e8046,1999/11/12,Adrian,a restaurant
+e8050,1999/11/20,Landon,a park
+e8053,1999/11/28,Evelyn,a park
+e8054,1999/11/29,Gabriella,a boba shop
+e8057,1999/12/06,Carson,a restaurant
+e8062,1999/12/11,Mila,a coffee Shop
+e8063,1999/12/16,Peyton,a restaurant
+e8068,1999/12/17,Claire,a restaurant
+e8069,1999/12/22,Emily,a coffee Shop
+e8073,1999/12/24,Andrew,a boba shop
+e8074,1999/12/30,Ezra,a park
+e9844,2000/01/01,Emilia,a boba shop
+e9845,2000/01/04,Aubrey,a coffee Shop
+e9850,2000/01/08,Audrey,a boba shop
+e9851,2000/01/12,Chloe,a boba shop
+e9859,2000/01/23,Emilia,a coffee Shop
+e9862,2000/01/29,Allison,a coffee Shop
+e9863,2000/02/04,Athena,a coffee Shop
+e9865,2000/02/09,Michael,a restaurant
+e9867,2000/02/14,Easton,a restaurant
+e9868,2000/02/16,Charles,a coffee Shop
+e9872,2000/02/23,Delilah,a coffee Shop
+e9876,2000/02/29,Aiden,a park
+e9879,2000/03/06,Leonardo,a park
+e9880,2000/03/10,Thomas,a boba shop
+e9886,2000/03/20,Hunter,a boba shop
+e9887,2000/03/21,Josiah,a restaurant
+e9891,2000/03/25,Dylan,a restaurant
+e9892,2000/03/31,Noah,a restaurant
+e9895,2000/04/02,Jameson,a coffee Shop
+e9898,2000/04/14,Silas,a boba shop
+e9903,2000/04/17,Lucy,a park
+e9904,2000/04/18,Joseph,a park
+e9906,2000/04/27,Ruby,a boba shop
+e9910,2000/04/30,Hannah,a coffee Shop
+e9911,2000/05/04,Grayson,a boba shop
+e9915,2000/05/06,Emily,a park
+e9916,2000/05/09,Skylar,a restaurant
+e9924,2000/05/28,Quinn,a park
+e9926,2000/06/06,Lily,a coffee Shop
+e9928,2000/06/13,Daniel,a boba shop
+e9931,2000/06/19,Anna,a restaurant
+e9932,2000/06/21,Natalie,a park
+e9935,2000/06/30,Hudson,a coffee Shop
+e9939,2000/07/06,Skylar,a coffee Shop
+e9943,2000/07/10,Ian,a park
+e9944,2000/07/12,Delilah,a coffee Shop
+e9949,2000/07/21,Emily,a park
+e9952,2000/07/26,Lambert,a restaurant
+e9958,2000/08/05,Dylan,a coffee Shop
+e9961,2000/08/14,Jace,a park
+e9966,2000/08/21,Peyton,a boba shop
+e9970,2000/08/27,Christian,a boba shop
+e9971,2000/08/31,Abigail,a park
+e9975,2000/09/03,Elena,a boba shop
+e9976,2000/09/06,Emma,a park
+e9980,2000/09/12,Nolan,a coffee Shop
+e9984,2000/09/16,Emery,a restaurant
+e9987,2000/09/26,Asher,a park
+e9990,2000/10/05,Naomi,a coffee Shop
+e9993,2000/10/09,Aria,a park
+e9996,2000/10/17,Xavier,a boba shop
+e10000,2000/10/21,Jane,a park
+e10004,2000/10/29,Aaron,a boba shop
+e10007,2000/11/07,Aria,a park
+e10011,2000/11/14,Adam,a boba shop
+e10018,2000/11/26,Mike,a coffee Shop
+e10020,2000/12/02,Violet,a boba shop
+e10021,2000/12/06,Lambert,a coffee Shop
+e10027,2000/12/10,Jameson,a boba shop
+e10028,2000/12/14,Brooklyn,a restaurant
+e10031,2000/12/17,James,a boba shop
+e10032,2000/12/21,Xavier,a park
+e10037,2000/12/29,Aurora,a park
+e10039,2000/12/31,Zoe,a park
+e11822,2001/01/07,Hudson,a park
+e11826,2001/01/14,Kai,a park
+e11830,2001/01/15,Claire,a restaurant
+e11831,2001/01/19,Evelyn,a restaurant
+e11835,2001/01/28,Chris,a boba shop
+e11838,2001/02/01,Kinsley,a coffee Shop
+e11840,2001/02/11,Matthew,a restaurant
+e11845,2001/02/21,Ava,a restaurant
+e11846,2001/02/28,Dylan,a boba shop
+e11847,2001/03/02,Leilani,a restaurant
+e11852,2001/03/05,Christian,a coffee Shop
+e11853,2001/03/09,Adrian,a coffee Shop
+e11856,2001/03/12,Cameron,a boba shop
+e11857,2001/03/18,Abigail,a restaurant
+e11861,2001/03/22,Emily,a restaurant
+e11867,2001/04/04,Alon,a coffee Shop
+e11868,2001/04/06,Xavier,a boba shop
+e11871,2001/04/14,Jameson,a restaurant
+e11876,2001/04/16,Lily,a park
+e11877,2001/04/19,Lincoln,a park
+e11880,2001/04/24,Matthew,a park
+e11885,2001/05/05,Victoria,a coffee Shop
+e11886,2001/05/08,Joshua,a restaurant
+e11887,2001/05/10,Ethan,a boba shop
+e11890,2001/05/15,Autumn,a restaurant
+e11895,2001/05/27,Eli,a boba shop
+e11899,2001/05/28,Luke,a restaurant
+e11900,2001/05/31,Luna,a park
+e11904,2001/06/05,Jack,a park
+e11905,2001/06/08,Mason,a boba shop
+e11912,2001/06/23,Angel,a park
+e11915,2001/06/30,Anthony,a boba shop
+e11918,2001/07/05,Lambert,a coffee Shop
+e11921,2001/07/15,Wang-Chiew,a boba shop
+e11925,2001/07/18,Carson,a boba shop
+e11926,2001/07/20,Isaiah,a coffee Shop
+e11930,2001/07/29,Allison,a boba shop
+e11942,2001/08/07,Isla,a coffee Shop
+e11943,2001/08/11,Mateo,a boba shop
+e11946,2001/08/14,Hannah,a park
+e11947,2001/08/17,Jonathan,a park
+e11950,2001/08/22,Sarah,a park
+e11953,2001/08/27,Cora,a restaurant
+e11954,2001/08/31,Caroline,a coffee Shop
+e11959,2001/09/07,Lambert,a coffee Shop
+e11963,2001/09/12,Isaac,a restaurant
+e11964,2001/09/15,Madeline,a restaurant
+e11968,2001/09/19,Colton,a restaurant
+e11969,2001/09/23,Joseph,a boba shop
+e11973,2001/09/24,Harper,a boba shop
+e11974,2001/09/29,Amelia,a coffee Shop
+e11979,2001/10/13,Everleigh,a park
+e11981,2001/10/19,Emery,a restaurant
+e11985,2001/10/26,Isla,a boba shop
+e11992,2001/11/06,Elena,a restaurant
+e11993,2001/11/08,Julian,a boba shop
+e11996,2001/11/13,Brook,a restaurant
+e11997,2001/11/18,Natalia,a restaurant
+e12003,2001/11/21,David,a park
+e12007,2001/11/26,Madelyn,a boba shop
+e12008,2001/11/29,Nora,a park
+e12013,2001/12/06,Athena,a park
+e12016,2001/12/16,Ethan,a restaurant
+e12020,2001/12/23,Ruby,a park
+e12023,2001/12/30,Dominic,a restaurant
+e13797,2002/01/02,Alon,a park
+e13798,2002/01/06,Delilah,a restaurant
+e13802,2002/01/10,Emily,a boba shop
+e13803,2002/01/11,Kinsley,a park
+e13808,2002/01/17,Ruby,a coffee Shop
+e13809,2002/01/20,Aiden,a park
+e13813,2002/01/22,Avery,a boba shop
+e13814,2002/01/28,Audrey,a boba shop
+e13818,2002/01/29,Brook,a coffee Shop
+e13819,2002/02/01,Autumn,a park
+e13835,2002/03/03,Ian,a park
+e13838,2002/03/06,Rylee,a coffee Shop
+e13839,2002/03/11,Mason,a park
+e13842,2002/03/13,Isaac,a restaurant
+e13843,2002/03/15,Brooklyn,a boba shop
+e13846,2002/03/20,Kinsley,a boba shop
+e13850,2002/03/30,Autumn,a coffee Shop
+e13854,2002/04/04,Jeremiah,a restaurant
+e13855,2002/04/06,Camila,a coffee Shop
+e13860,2002/04/12,Santiago ,a boba shop
+e13866,2002/04/22,Silas,a restaurant
+e13868,2002/04/25,Ethan,a park
+e13873,2002/05/13,Genesis,a restaurant
+e13879,2002/05/21,Willow,a restaurant
+e13894,2002/07/01,Mateo,a coffee Shop
+e13898,2002/07/02,Lambert,a restaurant
+e13899,2002/07/12,Brooklyn,a coffee Shop
+e13906,2002/07/23,Benjamin,a park
+e13911,2002/08/08,Adeline,a park
+e13912,2002/08/12,Christian,a restaurant
+e13920,2002/08/27,Richard,a park
+e13921,2002/08/31,Theodore,a park
+e13928,2002/09/11,Willow,a restaurant
+e13929,2002/09/13,Julian,a park
+e13934,2002/09/19,Dylan,a park
+e13935,2002/09/21,Jaxon,a restaurant
+e13939,2002/09/26,Peyton,a restaurant
+e13940,2002/09/30,Hudson,a park
+e13943,2002/10/05,Hudson,a restaurant
+e13949,2002/10/08,Caleb,a coffee Shop
+e13952,2002/10/17,Daniel,a restaurant
+e13953,2002/10/18,Jaxon,a park
+e13961,2002/11/03,Owen,a restaurant
+e13965,2002/11/10,Grayson,a park
+e13968,2002/11/13,Eliana,a park
+e13969,2002/11/17,Natalie,a park
+e13973,2002/11/20,Bella,a park
+e13974,2002/11/24,Liam,a park
+e13976,2002/12/01,Brook,a coffee Shop
+e13980,2002/12/04,Ivy,a boba shop
+e13987,2002/12/18,Grace,a park
+e13988,2002/12/23,Lucy,a coffee Shop
+e13991,2002/12/26,Allison,a restaurant
+e15775,2003/01/01,Nova,a restaurant
+e15776,2003/01/06,Nova,a restaurant
+e15783,2003/01/24,Luke,a boba shop
+e15784,2003/01/28,Elias,a coffee Shop
+e15790,2003/01/31,Daniel,a boba shop
+e15794,2003/02/10,Richard,a park
+e15803,2003/02/20,Santiago ,a park
+e15804,2003/02/25,Mia,a restaurant
+e15807,2003/03/01,Josephine,a boba shop
+e15812,2003/03/06,Leo,a coffee Shop
+e15819,2003/03/23,Nevaeh,a park
+e15822,2003/03/28,Lincoln,a coffee Shop
+e15823,2003/04/01,Scarlett,a park
+e15826,2003/04/06,Grayson,a park
+e15830,2003/04/09,Nova,a coffee Shop
+e15832,2003/04/21,Everly,a boba shop
+e15835,2003/04/25,Wesley,a boba shop
+e15840,2003/05/03,Logan,a park
+e15845,2003/05/08,Aurora,a restaurant
+e15851,2003/05/24,Avery,a coffee Shop
+e15855,2003/05/28,Aurora,a boba shop
+e15856,2003/06/02,Jane,a coffee Shop
+e15859,2003/06/05,Colton,a park
+e15862,2003/06/17,Alexander,a boba shop
+e15864,2003/06/19,Autumn,a park
+e15866,2003/06/25,Ezra,a park
+e15871,2003/07/04,Joshua,a boba shop
+e15872,2003/07/07,Dominic,a park
+e15876,2003/07/15,Henry,a boba shop
+e15881,2003/07/25,Austin,a restaurant
+e15886,2003/07/31,Hannah,a coffee Shop
+e15890,2003/08/10,Hailey,a coffee Shop
+e15892,2003/08/16,Nevaeh,a coffee Shop
+e15898,2003/08/24,Kinsley,a boba shop
+e15902,2003/09/02,Peyton,a boba shop
+e15908,2003/09/03,Dylan,a park
+e15909,2003/09/08,Mason,a boba shop
+e15916,2003/09/22,Parker,a boba shop
+e15919,2003/09/26,Nathan,a park
+e15920,2003/09/27,Emily,a restaurant
+e15923,2003/10/04,William,a restaurant
+e15927,2003/10/11,Zoey,a boba shop
+e15932,2003/10/15,Carter,a park
+e15935,2003/10/25,Isaac,a boba shop
+e15941,2003/11/07,Ivy,a restaurant
+e15942,2003/11/11,Luna,a coffee Shop
+e15947,2003/11/12,Riley,a coffee Shop
+e15951,2003/11/21,Alice,a coffee Shop
+e15952,2003/11/23,Layla,a restaurant
+e15956,2003/11/28,Carter,a boba shop
+e15957,2003/11/30,Carter,a coffee Shop
+e15960,2003/12/05,Robert,a park
+e15961,2003/12/08,Kennedy,a boba shop
+e15966,2003/12/16,Angel,a park
+e15969,2003/12/23,Nolan,a restaurant
+e15972,2003/12/24,Jeremiah,a coffee Shop
+e15973,2003/12/27,Marzieh,a park
+e17742,2004/01/09,Jose,a park
+e17743,2004/01/13,Sadie,a restaurant
+e17747,2004/01/15,Hudson,a boba shop
+e17748,2004/01/20,Roman,a restaurant
+e17754,2004/01/24,Stella,a restaurant
+e17755,2004/01/27,Claire,a coffee Shop
+e17760,2004/02/02,Isaac,a coffee Shop
+e17764,2004/02/07,Cora,a coffee Shop
+e17765,2004/02/09,Emily,a restaurant
+e17769,2004/02/13,Piper,a boba shop
+e17773,2004/02/24,Avery,a restaurant
+e17778,2004/02/28,Brooklyn,a coffee Shop
+e17779,2004/03/01,Isaac,a park
+e17782,2004/03/04,Julian,a boba shop
+e17785,2004/03/13,Nora,a restaurant
+e17786,2004/03/15,Charles,a coffee Shop
+e17789,2004/03/21,Adrian,a boba shop
+e17793,2004/03/28,Jade,a restaurant
+e17796,2004/04/06,Valentina,a coffee Shop
+e17798,2004/04/11,Elijah,a coffee Shop
+e17802,2004/04/15,Noah,a coffee Shop
+e17804,2004/04/25,Aria,a park
+e17808,2004/05/01,Axel,a boba shop
+e17809,2004/05/05,Connor,a park
+e17812,2004/05/10,Leonardo,a park
+e17818,2004/05/16,Axel,a park
+e17823,2004/05/25,Skylar,a restaurant
+e17826,2004/05/27,Lucas,a park
+e17830,2004/06/03,Sophie,a park
+e17831,2004/06/06,Claire,a restaurant
+e17835,2004/06/12,Caleb,a coffee Shop
+e17839,2004/06/21,Sofia,a restaurant
+e17843,2004/06/30,Gabriella,a boba shop
+e17846,2004/07/02,Gianna,a coffee Shop
+e17847,2004/07/06,Abigail,a boba shop
+e17850,2004/07/09,Logan,a park
+e17851,2004/07/14,Easton,a park
+e17854,2004/07/16,Allison,a park
+e17859,2004/07/24,Jacob,a park
+e17860,2004/07/28,Ella,a coffee Shop
+e17863,2004/08/03,Joseph,a park
+e17865,2004/08/07,Aurora,a park
+e17866,2004/08/08,Greyson,a park
+e17870,2004/08/13,Luke,a coffee Shop
+e17880,2004/09/07,Nathan,a restaurant
+e17884,2004/09/11,Noah,a park
+e17885,2004/09/14,Leilani,a boba shop
+e17888,2004/09/19,Henry,a boba shop
+e17891,2004/09/26,Zoe,a boba shop
+e17895,2004/10/02,Matthew,a restaurant
+e17896,2004/10/04,Paisley,a park
+e17899,2004/10/08,Theodore,a park
+e17900,2004/10/12,Levi,a restaurant
+e17904,2004/10/16,Joshua,a park
+e17912,2004/10/30,Allison,a coffee Shop
+e17913,2004/11/02,Jace,a restaurant
+e17916,2004/11/05,Ruby,a boba shop
+e17920,2004/11/12,Michael,a coffee Shop
+e17921,2004/11/14,Samuel,a restaurant
+e17926,2004/11/21,Silas,a park
+e17929,2004/11/25,William,a restaurant
+e17930,2004/11/30,Luna,a restaurant
+e17932,2004/12/08,Savannah,a park
+e17936,2004/12/09,Christian,a park
+e17937,2004/12/13,Andrew,a boba shop
+e17940,2004/12/16,Sarah,a coffee Shop
+e17941,2004/12/20,Nicholas,a park
+e17946,2004/12/26,Richard,a coffee Shop
+e19697,2005/01/03,Aria,a coffee Shop
+e19702,2005/01/16,Lucy,a boba shop
+e19705,2005/01/26,Nova,a park
+e19708,2005/01/30,Hannah,a boba shop
+e19709,2005/02/04,Lucy,a boba shop
+e19713,2005/02/09,Luna,a restaurant
+e19716,2005/02/14,Jane,a park
+e19725,2005/03/10,Leonardo,a restaurant
+e19730,2005/03/13,John,a restaurant
+e19733,2005/03/20,Ian,a park
+e19734,2005/03/25,Skylar,a restaurant
+e19737,2005/03/26,Sadie,a coffee Shop
+e19738,2005/03/29,Maya,a restaurant
+e19741,2005/04/09,Harper,a coffee Shop
+e19744,2005/04/16,Ezra,a boba shop
+e19745,2005/04/21,Savannah,a restaurant
+e19751,2005/04/29,Evelyn,a boba shop
+e19756,2005/05/02,Madeline,a boba shop
+e19762,2005/05/18,Josephine,a restaurant
+e19765,2005/05/21,Zoey,a park
+e19766,2005/05/24,Eleanor,a park
+e19770,2005/05/28,Hunter,a restaurant
+e19771,2005/06/02,Genesis,a park
+e19776,2005/06/05,Greyson,a boba shop
+e19777,2005/06/09,Jeremiah,a park
+e19783,2005/06/20,Nathan,a boba shop
+e19784,2005/06/24,Zoey,a coffee Shop
+e19790,2005/07/06,Sofia,a park
+e19794,2005/07/09,Claire,a park
+e19795,2005/07/15,Angel,a restaurant
+e19797,2005/07/19,Adrian,a boba shop
+e19800,2005/07/23,Maya,a park
+e19801,2005/07/27,Mike,a restaurant
+e19804,2005/07/30,Addison,a restaurant
+e19805,2005/08/03,Wyatt,a boba shop
+e19808,2005/08/06,Sophie,a park
+e19816,2005/08/23,Logan,a coffee Shop
+e19819,2005/08/28,Lucy,a restaurant
+e19820,2005/09/02,Isla,a boba shop
+e19826,2005/09/10,Hazel,a restaurant
+e19827,2005/09/13,Sophia,a coffee Shop
+e19831,2005/09/22,Jaxon,a boba shop
+e19835,2005/09/27,Oliver,a coffee Shop
+e19840,2005/10/04,Carson,a coffee Shop
+e19846,2005/10/08,Lily,a boba shop
+e19847,2005/10/13,Thomas,a boba shop
+e19853,2005/10/24,Michael,a coffee Shop
+e19860,2005/11/05,Jade,a restaurant
+e19865,2005/11/17,Olivia,a boba shop
+e19868,2005/11/20,Jaxson,a coffee Shop
+e19873,2005/11/27,Levi,a park
+e19874,2005/12/01,Austin,a restaurant
+e19878,2005/12/09,Olivia,a coffee Shop
+e19882,2005/12/11,Colton,a coffee Shop
+e19883,2005/12/13,Adam,a restaurant
+e19887,2005/12/21,Hudson,a boba shop
+e19889,2005/12/24,Josephine,a coffee Shop
+e23080,2006/01/02,Lucas,a coffee Shop
+e23081,2006/01/06,Aria,a park
+e23084,2006/01/10,Lily,a boba shop
+e23087,2006/01/16,Brook,a boba shop
+e23088,2006/01/18,Audrey,a park
+e23091,2006/01/22,Ruby,a park
+e23092,2006/01/25,Everly,a restaurant
+e23097,2006/02/04,John,a coffee Shop
+e23104,2006/02/13,Chloe,a boba shop
+e23105,2006/02/15,Levi,a boba shop
+e23108,2006/02/23,Luke,a park
+e23111,2006/03/04,Jackson,a coffee Shop
+e23117,2006/03/12,Jace,a restaurant
+e23119,2006/03/20,Thomas,a coffee Shop
+e23122,2006/03/30,Asher,a coffee Shop
+e23125,2006/04/02,Miles,a park
+e23126,2006/04/06,Ezra,a park
+e23131,2006/04/10,Nicholas,a boba shop
+e23132,2006/04/12,Greyson,a boba shop
+e23136,2006/04/17,Luca,a coffee Shop
+e23137,2006/04/19,Cameron,a coffee Shop
+e23141,2006/04/24,Noah,a restaurant
+e23142,2006/04/27,Ruby,a restaurant
+e23145,2006/05/02,Rylee,a park
+e23149,2006/05/09,Isabella,a restaurant
+e23151,2006/05/19,Adam,a coffee Shop
+e23155,2006/05/23,Nicholas,a restaurant
+e23156,2006/05/27,Nathan,a coffee Shop
+e23160,2006/05/29,Isla,a coffee Shop
+e23161,2006/06/01,Elijah,a restaurant
+e23164,2006/06/09,Josephine,a park
+e23168,2006/06/11,Carson,a park
+e23169,2006/06/17,Autumn,a park
+e23173,2006/06/22,Joseph,a restaurant
+e23176,2006/06/26,Nathan,a park
+e23177,2006/06/29,Kayden,a restaurant
+e23181,2006/07/04,Ruby,a restaurant
+e23182,2006/07/07,Adrian,a coffee Shop
+e23189,2006/07/16,Charles,a boba shop
+e23190,2006/07/21,Sophia,a restaurant
+e23194,2006/07/24,Caroline,a park
+e23195,2006/07/26,Ella,a coffee Shop
+e23200,2006/08/02,Josiah,a boba shop
+e23203,2006/08/10,Parker,a restaurant
+e23209,2006/08/26,Charlotte,a park
+e23213,2006/08/28,Carson,a restaurant
+e23214,2006/09/01,Stella,a coffee Shop
+e23217,2006/09/04,Elijah,a boba shop
+e23218,2006/09/09,William,a coffee Shop
+e23220,2006/09/10,Valentina,a boba shop
+e23221,2006/09/15,Scarlett,a restaurant
+e23225,2006/09/17,Samuel,a restaurant
+e23226,2006/09/20,Claire,a restaurant
+e23230,2006/09/30,Liam,a restaurant
+e23236,2006/10/02,Naomi,a restaurant
+e23237,2006/10/06,Adam,a boba shop
+e23240,2006/10/10,Isabella,a coffee Shop
+e23241,2006/10/11,Nathan,a restaurant
+e23248,2006/10/24,Emily,a restaurant
+e23253,2006/10/31,Levi,a boba shop
+e23254,2006/11/03,Grayson,a coffee Shop
+e23258,2006/11/09,Addison,a coffee Shop
+e23262,2006/11/14,Michael,a park
+e23267,2006/11/19,Cooper,a boba shop
+e23268,2006/11/25,Henry,a coffee Shop
+e23272,2006/11/29,Emily,a restaurant
+e23276,2006/12/07,Chloe,a boba shop
+e23281,2006/12/10,Lydia,a coffee Shop
+e23282,2006/12/16,Logan,a park
+e23286,2006/12/19,Julian,a restaurant
+e23291,2006/12/29,Nova,a boba shop
+e26493,2007/01/03,Chloe,a restaurant
+e26494,2007/01/07,Joshua,a restaurant
+e26499,2007/01/10,Nolan,a coffee Shop
+e26502,2007/01/21,Aiden,a restaurant
+e26505,2007/01/22,Jordan,a restaurant
+e26506,2007/01/25,Parker,a coffee Shop
+e26510,2007/01/30,Levi,a restaurant
+e26513,2007/02/06,Jane,a boba shop
+e26516,2007/02/14,Chloe,a boba shop
+e26519,2007/02/19,Luke,a boba shop
+e26520,2007/02/23,Henry,a boba shop
+e26524,2007/02/28,Eliana,a restaurant
+e26529,2007/03/05,Logan,a boba shop
+e26530,2007/03/11,Alice,a boba shop
+e26536,2007/03/14,Jordan,a coffee Shop
+e26540,2007/03/21,Aaliyah,a park
+e26542,2007/04/01,Autumn,a restaurant
+e26546,2007/04/05,Joseph,a restaurant
+e26551,2007/04/12,Axel,a coffee Shop
+e26554,2007/04/22,Leah,a coffee Shop
+e26557,2007/04/23,Hannah,a restaurant
+e26558,2007/04/29,Ruby,a boba shop
+e26561,2007/05/05,Serenity,a park
+e26565,2007/05/13,Parker,a park
+e26570,2007/05/26,Maya,a boba shop
+e26573,2007/05/29,Madeline,a restaurant
+e26574,2007/06/03,Willow,a park
+e26578,2007/06/04,Victoria,a park
+e26579,2007/06/07,Aria,a coffee Shop
+e26584,2007/06/15,Claire,a coffee Shop
+e26588,2007/06/22,Abigail,a restaurant
+e26594,2007/07/07,Marzieh,a coffee Shop
+e26598,2007/07/13,Lily,a restaurant
+e26603,2007/07/17,Natalia,a park
+e26610,2007/08/01,Emilia,a park
+e26611,2007/08/03,Grayson,a coffee Shop
+e26614,2007/08/08,Stella,a coffee Shop
+e26615,2007/08/12,Ethan,a coffee Shop
+e26619,2007/08/18,Jayden,a park
+e26623,2007/08/24,Hannah,a park
+e26629,2007/09/03,Madelyn,a restaurant
+e26630,2007/09/09,Owen,a coffee Shop
+e26634,2007/09/11,Adrian,a boba shop
+e26635,2007/09/14,Caleb,a restaurant
+e26638,2007/09/20,Ava,a boba shop
+e26642,2007/09/29,Levi,a boba shop
+e26645,2007/10/04,Andrew,a restaurant
+e26649,2007/10/09,Natalia,a restaurant
+e26653,2007/10/15,Grace,a coffee Shop
+e26654,2007/10/20,Miles,a park
+e26660,2007/10/30,Joseph,a boba shop
+e26668,2007/11/13,Jose,a boba shop
+e26669,2007/11/18,Miles,a park
+e26675,2007/11/24,Everleigh,a restaurant
+e26677,2007/11/27,Delilah,a park
+e26680,2007/12/04,Savannah,a boba shop
+e26681,2007/12/06,Kennedy,a boba shop
+e26686,2007/12/14,Colton,a park
+e26691,2007/12/19,Lily,a restaurant
+e26692,2007/12/22,Mila,a boba shop
+e26696,2007/12/27,Autumn,a boba shop
+e29883,2008/01/10,Matthew,a boba shop
+e29885,2008/01/17,Matthew,a park
+e29886,2008/01/20,Matthew,a park
+e29895,2008/02/16,Matthew,a park
+e29908,2008/03/04,Matthew,a boba shop
+e29917,2008/03/20,Matthew,a restaurant
+e29918,2008/03/22,Matthew,a restaurant
+e29920,2008/03/25,Matthew,a restaurant
+e29925,2008/04/07,Matthew,a boba shop
+e29937,2008/04/23,Matthew,a boba shop
+e29938,2008/04/28,Matthew,a coffee Shop
+e29950,2008/05/19,Matthew,a park
+e29955,2008/05/26,Matthew,a park
+e29960,2008/05/31,Matthew,a restaurant
+e29963,2008/06/05,Matthew,a park
+e29965,2008/06/10,Matthew,a park
+e29966,2008/06/15,Matthew,a park
+e29971,2008/06/18,Matthew,a coffee Shop
+e29972,2008/06/22,Matthew,a boba shop
+e29977,2008/06/29,Matthew,a park
+e29980,2008/07/01,Matthew,a park
+e29981,2008/07/06,Matthew,a restaurant
+e29986,2008/07/17,Matthew,a coffee Shop
+e29990,2008/07/23,Matthew,a coffee Shop
+e29991,2008/07/27,Matthew,a coffee Shop
+e29998,2008/08/14,Matthew,a restaurant
+e29999,2008/08/18,Matthew,a restaurant
+e30002,2008/08/21,Matthew,a restaurant
+e30003,2008/08/25,Matthew,a park
+e30006,2008/09/01,Matthew,a park
+e30027,2008/10/01,Matthew,a restaurant
+e30031,2008/10/16,Matthew,a park
+e30032,2008/10/19,Matthew,a boba shop
+e30033,2008/10/22,Matthew,a coffee Shop
+e30040,2008/11/08,Matthew,a park
+e30044,2008/11/11,Matthew,a coffee Shop
+e30054,2008/12/07,Matthew,a coffee Shop
+e30057,2008/12/14,Matthew,a boba shop
+e33286,2009/01/14,Matthew,a coffee Shop
+e33290,2009/01/16,Matthew,a coffee Shop
+e33291,2009/01/19,Matthew,a restaurant
+e33295,2009/01/22,Matthew,a boba shop
+e33296,2009/01/26,Matthew,a boba shop
+e33301,2009/01/30,Matthew,a park
+e33303,2009/02/06,Matthew,a coffee Shop
+e33304,2009/02/11,Matthew,a coffee Shop
+e33308,2009/02/18,Matthew,a boba shop
+e33311,2009/02/25,Matthew,a park
+e33323,2009/03/14,Matthew,a coffee Shop
+e33327,2009/03/19,Matthew,a boba shop
+e33328,2009/03/22,Matthew,a coffee Shop
+e33331,2009/03/27,Matthew,a boba shop
+e33332,2009/03/31,Matthew,a restaurant
+e33337,2009/04/15,Matthew,a park
+e33339,2009/04/17,Matthew,a restaurant
+e33340,2009/04/20,Matthew,a restaurant
+e33347,2009/04/30,Matthew,a coffee Shop
+e33348,2009/05/04,Matthew,a restaurant
+e33353,2009/05/11,Matthew,a restaurant
+e33359,2009/05/27,Matthew,a restaurant
+e33362,2009/06/03,Matthew,a restaurant
+e33370,2009/06/13,Matthew,a park
+e33379,2009/07/12,Matthew,a restaurant
+e33384,2009/07/24,Matthew,a boba shop
+e33385,2009/07/26,Matthew,a restaurant
+e33390,2009/08/01,Matthew,a park
+e33396,2009/08/15,Matthew,a boba shop
+e33404,2009/09/07,Matthew,a restaurant
+e33410,2009/09/17,Matthew,a coffee Shop
+e33411,2009/09/22,Matthew,a park
+e33414,2009/09/28,Matthew,a coffee Shop
+e33419,2009/10/07,Matthew,a coffee Shop
+e33423,2009/10/10,Matthew,a park
+e33428,2009/10/17,Matthew,a boba shop
+e33432,2009/10/24,Matthew,a restaurant
+e33439,2009/11/06,Matthew,a park
+e33440,2009/11/11,Matthew,a restaurant
+e33443,2009/11/17,Matthew,a park
+e33449,2009/12/01,Matthew,a coffee Shop
+e33452,2009/12/05,Matthew,a boba shop
+e33455,2009/12/10,Matthew,a boba shop
+e33456,2009/12/13,Matthew,a boba shop
+e33460,2009/12/21,Matthew,a park
+e33463,2009/12/25,Matthew,a restaurant
+e33464,2009/12/28,Matthew,a boba shop
+e36669,2010/01/14,Matthew,a restaurant
+e36672,2010/01/17,Matthew,a park
+e36677,2010/01/23,Matthew,a coffee Shop
+e36681,2010/02/04,Matthew,a coffee Shop
+e36689,2010/02/21,Matthew,a boba shop
+e36690,2010/02/23,Matthew,a restaurant
+e36696,2010/03/07,Matthew,a boba shop
+e36699,2010/03/15,Matthew,a coffee Shop
+e36703,2010/03/20,Matthew,a boba shop
+e36704,2010/03/25,Matthew,a boba shop
+e36708,2010/04/01,Matthew,a restaurant
+e36714,2010/04/09,Matthew,a restaurant
+e36719,2010/04/22,Matthew,a coffee Shop
+e36725,2010/04/26,Matthew,a boba shop
+e36731,2010/05/12,Matthew,a coffee Shop
+e36734,2010/05/17,Matthew,a restaurant
+e36738,2010/05/24,Matthew,a restaurant
+e36744,2010/06/13,Matthew,a coffee Shop
+e36748,2010/06/24,Matthew,a coffee Shop
+e36754,2010/07/05,Matthew,a park
+e36760,2010/07/20,Matthew,a boba shop
+e36763,2010/07/23,Matthew,a boba shop
+e36764,2010/07/29,Matthew,a coffee Shop
+e36770,2010/08/10,Matthew,a park
+e36773,2010/08/14,Matthew,a restaurant
+e36774,2010/08/17,Matthew,a boba shop
+e36778,2010/08/26,Matthew,a coffee Shop
+e36785,2010/09/08,Matthew,a park
+e36790,2010/09/19,Matthew,a park
+e36796,2010/09/24,Matthew,a park
+e36800,2010/10/06,Matthew,a park
+e36804,2010/10/11,Matthew,a boba shop
+e36809,2010/10/19,Matthew,a restaurant
+e36813,2010/10/24,Matthew,a coffee Shop
+e36814,2010/10/27,Matthew,a park
+e36820,2010/11/11,Matthew,a park
+e36833,2010/12/26,Matthew,a boba shop
+e40045,2011/01/04,Matthew,a boba shop
+e40049,2011/01/10,Matthew,a coffee Shop
+e40057,2011/01/22,Matthew,a coffee Shop
+e40065,2011/02/05,Matthew,a restaurant
+e40073,2011/02/28,Matthew,a boba shop
+e40074,2011/03/03,Matthew,a coffee Shop
+e40078,2011/03/11,Matthew,a boba shop
+e40083,2011/03/19,Matthew,a boba shop
+e40084,2011/03/22,Matthew,a park
+e40095,2011/04/13,Matthew,a boba shop
+e40102,2011/04/25,Matthew,a coffee Shop
+e40106,2011/05/06,Matthew,a restaurant
+e40109,2011/05/09,Matthew,a boba shop
+e40110,2011/05/10,Matthew,a boba shop
+e40114,2011/05/18,Matthew,a restaurant
+e40117,2011/05/27,Matthew,a coffee Shop
+e40120,2011/05/29,Matthew,a coffee Shop
+e40124,2011/06/15,Matthew,a park
+e40132,2011/06/30,Matthew,a coffee Shop
+e40138,2011/07/03,Matthew,a restaurant
+e40139,2011/07/06,Matthew,a coffee Shop
+e40142,2011/07/09,Matthew,a restaurant
+e40147,2011/07/17,Matthew,a restaurant
+e40148,2011/07/21,Matthew,a park
+e40151,2011/07/28,Matthew,a boba shop
+e40155,2011/08/05,Matthew,a coffee Shop
+e40163,2011/08/26,Matthew,a restaurant
+e40167,2011/08/31,Matthew,a restaurant
+e40174,2011/09/16,Matthew,a park
+e40178,2011/09/24,Matthew,a restaurant
+e40179,2011/09/30,Matthew,a coffee Shop
+e40184,2011/10/02,Matthew,a boba shop
+e40191,2011/10/27,Matthew,a coffee Shop
+e40196,2011/11/06,Matthew,a coffee Shop
+e40201,2011/11/17,Matthew,a coffee Shop
+e40208,2011/11/29,Matthew,a park
+e40210,2011/12/09,Matthew,a coffee Shop
+e40214,2011/12/11,Matthew,a park
+e40219,2011/12/17,Matthew,a coffee Shop
+e40223,2011/12/24,Matthew,a coffee Shop
+e40224,2011/12/30,Matthew,a coffee Shop
+e43424,2012/01/12,Matthew,a coffee Shop
+e43431,2012/01/27,Matthew,a boba shop
+e43436,2012/01/29,Matthew,a boba shop
+e43437,2012/02/03,Matthew,a coffee Shop
+e43440,2012/02/05,Matthew,a restaurant
+e43448,2012/02/26,Matthew,a boba shop
+e43458,2012/03/22,Matthew,a boba shop
+e43467,2012/04/11,Matthew,a park
+e43469,2012/04/18,Matthew,a restaurant
+e43474,2012/05/04,Matthew,a boba shop
+e43478,2012/05/06,Matthew,a restaurant
+e43479,2012/05/11,Matthew,a boba shop
+e43483,2012/05/14,Matthew,a restaurant
+e43486,2012/05/21,Matthew,a boba shop
+e43487,2012/05/25,Matthew,a restaurant
+e43493,2012/06/06,Matthew,a restaurant
+e43505,2012/06/27,Matthew,a boba shop
+e43509,2012/07/03,Matthew,a coffee Shop
+e43510,2012/07/08,Matthew,a boba shop
+e43511,2012/07/14,Matthew,a park
+e43515,2012/07/16,Matthew,a park
+e43518,2012/07/24,Matthew,a coffee Shop
+e43521,2012/07/30,Matthew,a coffee Shop
+e43522,2012/08/03,Matthew,a park
+e43525,2012/08/07,Matthew,a boba shop
+e43529,2012/08/18,Matthew,a coffee Shop
+e43532,2012/08/25,Matthew,a park
+e43538,2012/09/02,Matthew,a boba shop
+e43539,2012/09/05,Matthew,a coffee Shop
+e43541,2012/09/15,Matthew,a boba shop
+e43566,2012/10/28,Matthew,a park
+e43567,2012/11/03,Matthew,a park
+e43570,2012/11/07,Matthew,a park
+e43574,2012/11/19,Matthew,a park
+e43575,2012/11/23,Matthew,a coffee Shop
+e43578,2012/12/08,Matthew,a restaurant
+e43582,2012/12/11,Matthew,a restaurant
+e43586,2012/12/17,Matthew,a coffee Shop
+e43587,2012/12/20,Matthew,a coffee Shop
+e43589,2012/12/27,Matthew,a park

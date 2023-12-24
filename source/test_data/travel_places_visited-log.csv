@@ -1,0 +1,65 @@
+eid,start_date,end_date,city,place_visit_date,place,people,action,emotion
+e4,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/17,Getty Center,"Sebastian, Ezekiel",bought some souvenirs,special
+e5,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/18,Griffith Park and Observatory,"Sebastian, Ezekiel",bought some souvenirs,impressed
+e6,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/19,Hollywood Walk of Fame,"Sebastian, Ezekiel",recorded some videos,impressed
+e7,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/20,Universal Studios Hollywood,"Sebastian, Ezekiel",recorded some videos,impressed
+e8,1995-03-16,1995-03-27,"Los Angeles, US",1995/03/21,Santa Monica Pier,"Sebastian, Ezekiel",took a group photo,impressed
+e1972,1996-04-25,1996-05-04,"Rio, Brazil",1996/04/26,Ipanema,Sebastian,bought some souvenirs,happy
+e1973,1996-04-25,1996-05-04,"Rio, Brazil",1996/04/27,Copacabana,Sebastian,recorded some videos,special
+e1974,1996-04-25,1996-05-04,"Rio, Brazil",1996/04/28,Sugarloaf,Sebastian,took a group photo,happy
+e1975,1996-04-25,1996-05-04,"Rio, Brazil",1996/04/29,Carnaval,Sebastian,recorded some videos,impressed
+e1976,1996-04-25,1996-05-04,"Rio, Brazil",1996/04/30,Cristo Redentor,Sebastian,bought some souvenirs,happy
+e5881,1998-02-05,1998-02-12,"London, UK",1998/02/06,Camden,Evelyn,took a group photo,special
+e5882,1998-02-05,1998-02-12,"London, UK",1998/02/07,Hyde Park,Evelyn,bought some souvenirs,happy
+e5883,1998-02-05,1998-02-12,"London, UK",1998/02/08,Westminster,Evelyn,took a group photo,special
+e5884,1998-02-05,1998-02-12,"London, UK",1998/02/09,London Eye,Evelyn,took a group photo,impressed
+e5885,1998-02-05,1998-02-12,"London, UK",1998/02/10,Tower of London,Evelyn,took a selfie,happy
+e7852,1999-03-02,1999-03-06,"New York, US",1999/03/03,Statue of Liberty,Alice,took a selfie,impressed
+e7853,1999-03-02,1999-03-06,"New York, US",1999/03/04,Central Park,Alice,took a selfie,special
+e7854,1999-03-02,1999-03-06,"New York, US",1999/03/05,Brooklyn Bridge,Alice,recorded some videos,special
+e7855,1999-03-02,1999-03-06,"New York, US",1999/03/06,Rockefeller Center,Alice,recorded some videos,happy
+e7856,1999-03-02,1999-03-06,"New York, US",1999/03/07,Times Square,Alice,recorded some videos,special
+e7857,1999-03-02,1999-03-06,"New York, US",1999/03/08,Metropolitan Museum of Art,Alice,took a group photo,special
+e7858,1999-03-02,1999-03-06,"New York, US",1999/03/09,Empire State Building,Alice,bought some souvenirs,happy
+e11804,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/12,Independence Hall,"Brooklyn, Kinsley",bought some souvenirs,happy
+e11805,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/13,Ipanema,"Brooklyn, Kinsley",took a selfie,impressed
+e11806,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/14,Liberty Bell,"Brooklyn, Kinsley",bought some souvenirs,special
+e11807,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/15,Philadelphia Museum of Art,"Brooklyn, Kinsley",bought some souvenirs,special
+e11808,2001-02-11,2001-02-21,"Philadelphia, US",2001/02/16,Carnaval,"Brooklyn, Kinsley",took a selfie,special
+e13784,2002-03-19,2002-03-26,"Dubai, UAE",2002/03/20,Burj Khalifa,"Sebastian, Ezekiel, Matthew",took a selfie,special
+e13785,2002-03-19,2002-03-26,"Dubai, UAE",2002/03/21,Miracle Garden,"Sebastian, Ezekiel, Matthew",took a selfie,impressed
+e13786,2002-03-19,2002-03-26,"Dubai, UAE",2002/03/22,Dubai Aquarium & Underwater Zoo,"Sebastian, Ezekiel, Matthew",bought some souvenirs,happy
+e15750,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/12,Ipanema,"Cora, Evelyn",bought some souvenirs,happy
+e15751,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/13,Carnaval,"Cora, Evelyn",took a group photo,happy
+e15752,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/14,Liberty Bell,"Cora, Evelyn",took a group photo,special
+e15753,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/15,Independence Hall,"Cora, Evelyn",took a selfie,happy
+e15754,2003-03-11,2003-03-25,"Philadelphia, US",2003/03/16,Philadelphia Museum of Art,"Cora, Evelyn",took a selfie,happy
+e17719,2004-02-21,2004-03-06,"New York, US",2004/02/22,Central Park,"Ezekiel, Sebastian",recorded some videos,special
+e17720,2004-02-21,2004-03-06,"New York, US",2004/02/23,Metropolitan Museum of Art,"Ezekiel, Sebastian",took a group photo,happy
+e17721,2004-02-21,2004-03-06,"New York, US",2004/02/24,Empire State Building,"Ezekiel, Sebastian",bought some souvenirs,special
+e17722,2004-02-21,2004-03-06,"New York, US",2004/02/25,Statue of Liberty,"Ezekiel, Sebastian",took a group photo,happy
+e17723,2004-02-21,2004-03-06,"New York, US",2004/02/26,Brooklyn Bridge,"Ezekiel, Sebastian",took a group photo,special
+e17724,2004-02-21,2004-03-06,"New York, US",2004/02/27,Times Square,"Ezekiel, Sebastian",took a selfie,happy
+e17725,2004-02-21,2004-03-06,"New York, US",2004/02/28,Rockefeller Center,"Ezekiel, Sebastian",recorded some videos,special
+e19677,2005-04-07,2005-04-17,"Rome, Italy",2005/04/08,Roman Forum,"Ezekiel, Matthew, Sebastian",took a group photo,special
+e19678,2005-04-07,2005-04-17,"Rome, Italy",2005/04/09,The Pantheon,"Ezekiel, Matthew, Sebastian",bought some souvenirs,happy
+e19679,2005-04-07,2005-04-17,"Rome, Italy",2005/04/10,Vatican City,"Ezekiel, Matthew, Sebastian",took a selfie,impressed
+e19680,2005-04-07,2005-04-17,"Rome, Italy",2005/04/11,The Colosseum and the Arch of Constantine,"Ezekiel, Matthew, Sebastian",took a group photo,special
+e19681,2005-04-07,2005-04-17,"Rome, Italy",2005/04/12,Trevi Fountain,"Ezekiel, Matthew, Sebastian",took a group photo,happy
+e26476,2007-01-21,2007-01-27,"Miami, US",2007/01/22,Vizcaya Museum and Gardens,"Aurora, Evelyn, Lily",bought some souvenirs,impressed
+e26477,2007-01-21,2007-01-27,"Miami, US",2007/01/23,Miami Beach,"Aurora, Evelyn, Lily",took a selfie,impressed
+e26478,2007-01-21,2007-01-27,"Miami, US",2007/01/24,Art Deco Historic District,"Aurora, Evelyn, Lily",took a selfie,impressed
+e26479,2007-01-21,2007-01-27,"Miami, US",2007/01/25,South Beach,"Aurora, Evelyn, Lily",bought some souvenirs,impressed
+e33266,2009-01-19,2009-01-28,"Seoul, South Korea",2009/01/20,N Seoul Tower,"Lily, Cora",took a group photo,happy
+e33267,2009-01-19,2009-01-28,"Seoul, South Korea",2009/01/21,Lotte World Tower,"Lily, Cora",took a selfie,special
+e33268,2009-01-19,2009-01-28,"Seoul, South Korea",2009/01/22,National Museum Of Korea,"Lily, Cora",bought some souvenirs,happy
+e40029,2011-02-04,2011-02-09,"New Delhi, India",2011/02/05,Gurudwara Bangla Sahib,"Matthew, Sebastian, Ezekiel",took a group photo,special
+e40030,2011-02-04,2011-02-09,"New Delhi, India",2011/02/06,Lodi Gardens,"Matthew, Sebastian, Ezekiel",bought some souvenirs,special
+e40031,2011-02-04,2011-02-09,"New Delhi, India",2011/02/07,Qutub Minar,"Matthew, Sebastian, Ezekiel",took a selfie,special
+e40032,2011-02-04,2011-02-09,"New Delhi, India",2011/02/08,The Lotus Temple,"Matthew, Sebastian, Ezekiel",took a group photo,special
+e40033,2011-02-04,2011-02-09,"New Delhi, India",2011/02/09,The Red Fort,"Matthew, Sebastian, Ezekiel",recorded some videos,impressed
+e43403,2012-01-19,2012-01-30,"London, UK",2012/01/20,London Eye,"Ezekiel, Matthew",recorded some videos,special
+e43404,2012-01-19,2012-01-30,"London, UK",2012/01/21,Tower of London,"Ezekiel, Matthew",recorded some videos,special
+e43405,2012-01-19,2012-01-30,"London, UK",2012/01/22,Hyde Park,"Ezekiel, Matthew",took a selfie,special
+e43406,2012-01-19,2012-01-30,"London, UK",2012/01/23,Camden,"Ezekiel, Matthew",took a group photo,special
+e43407,2012-01-19,2012-01-30,"London, UK",2012/01/24,Westminster,"Ezekiel, Matthew",took a group photo,special
