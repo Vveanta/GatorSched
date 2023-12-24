@@ -1,0 +1,3 @@
+[submodule "TimelineQA"]
+	path = TimelineQA
+	url = https://github.com/facebookresearch/TimelineQA.git
