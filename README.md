@@ -39,9 +39,4 @@ Run the `myimplementation.ipynb` notebook in the `source` folder to train and fi
 ### Generating Responses
 After training the model, use the `inference.ipynb` notebook to generate responses for questions listed in `questions.txt`. The notebook outputs the answers in `answers.txt`, forming a question-answer pair for each query.
 
-## Contributions
-Feel free to contribute to the GatorSched project by submitting pull requests or opening issues for any bugs or feature requests.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
